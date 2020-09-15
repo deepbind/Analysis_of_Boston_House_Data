@@ -64,10 +64,10 @@ transformedrm=exp(3.0371211)∗exp(0.2978245∗rm) , RMSE for test data = 5.1062
 
 SOURCE/CITATION
 
-   1   Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information 
-       and Computer Science.
-   2   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. An Introduction to Statistical Learning: with Applications in
-       R. Springer: 2017.
-   3   Harrison, D. and D. L. Rubinfeld (1978). Hedonic prices and the demand for clean air. Journal of Environmental Economics and 
-       Management, 5, 81-102.
-   4   Introduction to Linear Regression Analysis by Douglas C Montgomery, Elizabeth APeck, G. Geoffrey Vining.
+   1.   Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information 
+        and Computer Science.\\
+   2.   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. An Introduction to Statistical Learning: with Applications in
+        R. Springer: 2017.\\
+   3.   Harrison, D. and D. L. Rubinfeld (1978). Hedonic prices and the demand for clean air. Journal of Environmental Economics and 
+         Management, 5, 81-102.\\
+   4.   Introduction to Linear Regression Analysis by Douglas C Montgomery, Elizabeth APeck, G. Geoffrey Vining.
